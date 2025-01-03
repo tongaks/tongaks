@@ -7,11 +7,11 @@
 
 ###
 
-<h1 align="center">Hullo!👋 I'm Band2 and I create programs because of my fear of being unproductive! (I hate myself)</h1>
+<h1 align="center">Hullo!👋 I'm Band2 and I make programs because of my fear of being unproductive! (I hate myself)</h1>
 
 ###
 
-<p align="left">I'm a college student and I struggling fitting in</p>
+<h2 align="left">I'm a college student and I struggling fitting in</h2>
 
 ###
 
