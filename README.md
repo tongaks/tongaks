@@ -2,6 +2,8 @@
   <img height="200" src="moomin-papa-pointing.png"  />
   <img height="200" src="moomin-papa-reading.gif"  />
   <img height="200" src="moominpapa-with-big-hat.gif"  />
+  <img height="200" src="moominpapa-reading-2"  />
+  <img height="200" src="arrow-in-head.png"  />
 </div>
 
 ###
