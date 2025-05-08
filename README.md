@@ -14,6 +14,7 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="70" alt="cpp logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="70" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/electron/electron-original.svg" height="70" alt="electron"/>
 </div>
 
 ###
