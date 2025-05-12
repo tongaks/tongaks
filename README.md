@@ -1,71 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" fill="none">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        * {
-          margin: 0;
-          padding: 0;
-        }
-
-        @keyframes text-effect-red-yellow {
-          0%   { color: red; }
-          50%  { color: #e9ee07; }
-          100% { color: red; }
-        }
-
-        @keyframes cover-anim {
-          0%   { background-color: rgba(0, 0, 0, 1); }
-          100% { background-color: transparent; z-index: -1; }
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
         }
 
         .container {
-          height: 300px;
+          background-color: black;
+
           width: 100%;
-          position: relative;
+          height: 300px;
+
           display: flex;
-          flex-direction: column;
           justify-content: center;
           align-items: center;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-          background: black;
-        }
-
-        .cover {
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;
-          z-index: 9999;
-          background-color: rgba(0, 0, 0, 1);
-          animation: cover-anim 1s ease forwards 2s;
-        }
-
-        .hero {
-          position: absolute;
           color: white;
-          text-align: center;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .hero h1 span {
-          animation: text-effect-red-yellow 2s ease-in-out infinite;
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
         }
 
-        .hero p {
-          font-size: 1.1rem;
-          margin-top: 0.5rem;
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
         }
-
       </style>
 
       <div class="container">
-        <div class="cover"></div>
-        <div class="hero">
-          <h1>Hullo, I'm <span>Joan</span></h1>
-          <p>I'm a programmer that's still has a lot to learn.</p>
-          <p>My main focus is on system programming</p>
-          <p>but I sometimes do full stack as my side projects</p>
-        </div>
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
