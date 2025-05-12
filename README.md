@@ -7,7 +7,12 @@
 
 ###
 
-<h1 align="center">Hullo!👋 I'm Band2 and I make programs because of my fear of being unproductive! (I hate myself)</h1>
+<div>
+<h1 align="center">Hullo!👋 I'm Bandi2</h1>
+<p>I'm a programmer that's still has a lot to learn.</p>
+<p>My main focus is on system programming</p>
+<p>but I sometimes do front-end as my side projects</p>
+</div>
 
 ###
 
