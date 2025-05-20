@@ -1,14 +1,5 @@
-<div align="center" style="display: flex;">
-  <img height="150" src="moomin-papa-reading.gif"  />
-  <img height="150" src="moominpapa-with-big-hat.gif"  />
-  <img height="150" src="moominpapa-reading-2.gif"  />
-  <img height="150" src="arrow-in-head.png"  />
-</div>
-
-###
-
 <div>
-<h1 align="center">Hullo!👋 I'm ShyLow</h1>
+<h1 align="center">Hello!👋 I'm ShyLow</h1>
 <p>I'm a programmer that still has a lot to learn.</p>
 <p>My main focus is on system programming</p>
 <p>but I sometimes do front-end as my side projects</p>
