@@ -6,6 +6,7 @@
 </div>
 
 ###
+![tongaks's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=tongaks&theme=radical&chart=bars)
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="70" alt="cpp logo"  />
