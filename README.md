@@ -8,7 +8,7 @@
 ###
 
 <div>
-<h1 align="center">Hullo!👋 I'm Bandi2</h1>
+<h1 align="center">Hullo!👋 I'm ShyLow</h1>
 <p>I'm a programmer that still has a lot to learn.</p>
 <p>My main focus is on system programming</p>
 <p>but I sometimes do front-end as my side projects</p>
