@@ -9,8 +9,6 @@
 </div>
 
 ###
-![tongaks's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=tongaks&type=contributions&theme=radical)
-![tongaks's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=tongaks&type=languages&theme=radical&chart=bars)
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="70" alt="cpp logo"  />
