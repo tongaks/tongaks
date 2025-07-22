@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="70" alt="linux icon"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" height="70" alt="rust icon"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height="70" alt="java icon"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" height="70" alt="next icon"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="70" alt="typescroit icon"/>
 </div>
 
 ###
