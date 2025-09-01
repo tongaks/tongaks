@@ -1,4 +1,8 @@
 <div>
+<marquee behavior="scroll" direction="left" scrollamount="2">
+    ShyLow
+</marquee>
+  
 <h1 align="center">Hello!👋 I'm ShyLow</h1>
 </div>
 
