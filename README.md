@@ -1,5 +1,6 @@
-<div>
-<h1 align="center">Hello!👋 I'm ShyLow</h1>
+<div align="center">
+  <img src="Bliss.gif" alt="Bliss wallpaper">
+  <h1 align="center">Hello!👋 I'm ShyLow</h1>
 </div>
 
 <div align="center">
