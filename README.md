@@ -1,8 +1,4 @@
 <div>
-<marquee behavior="scroll" direction="left" scrollamount="2">
-    ShyLow
-</marquee>
-  
 <h1 align="center">Hello!👋 I'm ShyLow</h1>
 </div>
 
@@ -25,6 +21,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height="70" alt="java icon"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" height="70" alt="next icon"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="70" alt="typescroit icon"/>
+</div>
+
+<div align="center">
+    [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+    [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 </div>
 
 ###
