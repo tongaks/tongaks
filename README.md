@@ -23,9 +23,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="70" alt="typescroit icon"/>
 </div>
 
-<div align="center">
-    [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-    [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-</div>
-
 ###
